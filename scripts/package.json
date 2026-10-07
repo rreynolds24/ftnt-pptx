@@ -1,0 +1,1 @@
+{"name":"fortinet-branding-offline-builder","version":"2.0.0","private":true,"description":"Optional offline data-driven architecture slide generator","engines":{"node":">=18"},"dependencies":{"pptxgenjs":"4.0.0"}}
