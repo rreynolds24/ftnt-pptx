@@ -1,0 +1,102 @@
+{
+  "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+  "source_filename": "FTNT-Brand-Guidelines.pdf",
+  "crops": [
+    {
+      "id": "building-generic",
+      "page_1_based": 51,
+      "crop_points": [
+        1030.5,
+        205.8,
+        1041,
+        219.5
+      ],
+      "pixels_per_point": 12
+    },
+    {
+      "id": "secure-networking",
+      "page_1_based": 56,
+      "crop_points": [
+        732,
+        168,
+        765,
+        205
+      ],
+      "pixels_per_point": 12
+    },
+    {
+      "id": "ot-security",
+      "page_1_based": 56,
+      "crop_points": [
+        837,
+        409,
+        868,
+        440
+      ],
+      "pixels_per_point": 12
+    },
+    {
+      "id": "security-operations",
+      "page_1_based": 56,
+      "crop_points": [
+        886,
+        168,
+        916,
+        205
+      ],
+      "pixels_per_point": 12
+    },
+    {
+      "id": "ai-technologies",
+      "page_1_based": 56,
+      "crop_points": [
+        696,
+        362,
+        723,
+        393
+      ],
+      "pixels_per_point": 12
+    },
+    {
+      "id": "fortiguard",
+      "page_1_based": 56,
+      "crop_points": [
+        984,
+        363,
+        1009,
+        394
+      ],
+      "pixels_per_point": 12
+    },
+    {
+      "id": "cloud",
+      "page_1_based": 51,
+      "crop_points": [
+        929.3,
+        244.0,
+        943.75,
+        257.4
+      ],
+      "pixels_per_point": 20,
+      "exclude_regions_points": [
+        [
+          942.6,
+          254.0,
+          943.75,
+          257.4
+        ]
+      ]
+    },
+    {
+      "id": "unified-sase",
+      "page_1_based": 56,
+      "crop_points": [
+        1034,
+        169,
+        1069,
+        205
+      ],
+      "pixels_per_point": 12
+    }
+  ]
+}

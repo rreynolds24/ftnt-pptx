@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "id": "building-generic",
+      "label": "Generic building",
+      "kind": "icon",
+      "tags": [
+        "building",
+        "campus",
+        "data centre",
+        "infrastructure"
+      ],
+      "path": "assets/icons/building-generic.png",
+      "sha256": "2d59e8998f34096de5cdb4aa454282e95d5906814433e86f057ed15665bbde02",
+      "width_px": 126,
+      "height_px": 165,
+      "ink_bbox_px": [
+        6,
+        10,
+        110,
+        165
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 51,
+        "crop_points": [
+          1030.5,
+          205.8,
+          1041,
+          219.5
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 8
+      },
+      "treatment": "Unmodified raster crop recovered from the completed slide. Not an official standalone SVG or a newly invented product logo.",
+      "approved": true
+    },
+    {
+      "id": "secure-networking",
+      "label": "Secure Networking pillar",
+      "kind": "icon",
+      "tags": [
+        "secure networking",
+        "network"
+      ],
+      "path": "assets/icons/secure-networking.png",
+      "sha256": "07a745090dcee0aee72864e74a8fbe7842701d46a778a2421ed6eb51c4e7791e",
+      "width_px": 396,
+      "height_px": 444,
+      "ink_bbox_px": [
+        23,
+        17,
+        376,
+        425
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 56,
+        "crop_points": [
+          732,
+          168,
+          765,
+          205
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 16
+      },
+      "treatment": "Unmodified raster crop recovered from the completed slide. Not an official standalone SVG or a newly invented product logo.",
+      "approved": true
+    },
+    {
+      "id": "ot-security",
+      "label": "OT security artwork",
+      "kind": "icon",
+      "tags": [
+        "ot",
+        "industrial",
+        "facilities"
+      ],
+      "path": "assets/icons/ot-security.png",
+      "sha256": "bd3dc7051ccf08e1d464a66b7f140e70c994ca60f1539659b606f9377cac67bf",
+      "width_px": 372,
+      "height_px": 372,
+      "ink_bbox_px": [
+        21,
+        28,
+        350,
+        362
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 56,
+        "crop_points": [
+          837,
+          409,
+          868,
+          440
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 23
+      },
+      "treatment": "Unmodified raster crop recovered from the completed slide. Not an official standalone SVG or a newly invented product logo.",
+      "approved": true
+    },
+    {
+      "id": "security-operations",
+      "label": "Security Operations pillar",
+      "kind": "icon",
+      "tags": [
+        "soc",
+        "security operations",
+        "secops"
+      ],
+      "path": "assets/icons/security-operations.png",
+      "sha256": "28bb98e5b82f0f2a208aaafd444fb16cc3705f2e16cf57e2cf2dc8296541ae20",
+      "width_px": 360,
+      "height_px": 444,
+      "ink_bbox_px": [
+        19,
+        6,
+        340,
+        428
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 56,
+        "crop_points": [
+          886,
+          168,
+          916,
+          205
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 31
+      },
+      "treatment": "Unmodified raster crop recovered from the completed slide. Not an official standalone SVG or a newly invented product logo.",
+      "approved": true
+    },
+    {
+      "id": "ai-technologies",
+      "label": "AI-driven technologies artwork",
+      "kind": "icon",
+      "tags": [
+        "ai",
+        "artificial intelligence"
+      ],
+      "path": "assets/icons/ai-technologies.png",
+      "sha256": "ddda23d71fb61c47464f66916f91dbe1f93a267c82b77eaf863b42a8f15eba0b",
+      "width_px": 324,
+      "height_px": 372,
+      "ink_bbox_px": [
+        26,
+        34,
+        312,
+        348
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 56,
+        "crop_points": [
+          696,
+          362,
+          723,
+          393
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 39
+      },
+      "treatment": "Unmodified raster crop recovered from the completed slide. Not an official standalone SVG or a newly invented product logo.",
+      "approved": true
+    },
+    {
+      "id": "fortiguard",
+      "label": "FortiGuard services artwork",
+      "kind": "icon",
+      "tags": [
+        "fortiguard",
+        "threat intelligence"
+      ],
+      "path": "assets/icons/fortiguard.png",
+      "sha256": "d33ef13c071ad0d3f91705ae373262293c50c62431147c0791765355e7885ab6",
+      "width_px": 300,
+      "height_px": 372,
+      "ink_bbox_px": [
+        20,
+        22,
+        280,
+        359
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 56,
+        "crop_points": [
+          984,
+          363,
+          1009,
+          394
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 47
+      },
+      "treatment": "Unmodified raster crop recovered from the completed slide. Not an official standalone SVG or a newly invented product logo.",
+      "approved": true
+    },
+    {
+      "id": "cloud",
+      "label": "Cloud artwork",
+      "kind": "icon",
+      "tags": [
+        "cloud",
+        "saas"
+      ],
+      "path": "assets/icons/cloud.png",
+      "sha256": "94d8cbeae22492268a6682e4bd7d0991bd7baeaef8539b23426b33f42c958060",
+      "width_px": 289,
+      "height_px": 268,
+      "ink_bbox_px": [
+        13,
+        11,
+        282,
+        265
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 51,
+        "crop_points": [
+          929.3,
+          244.0,
+          943.75,
+          257.4
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 76,
+        "original_recovered_asset_sha256": "81812bccccd6418f897a36f6d6293f15e874eadb878460aaeb5a21c95e81a4f2",
+        "exclude_regions_points": [
+          [
+            942.6,
+            254.0,
+            943.75,
+            257.4
+          ]
+        ],
+        "review_correction": "The recovered crop clipped the cloud right edge. Expanded source crop and excluded only the adjacent connector in the empty lower-right region; full icon reviewed visually."
+      },
+      "treatment": "Guideline-derived raster crop with full icon bounds preserved and an explicitly recorded exclusion of an adjacent diagram connector. No tracing or recolouring.",
+      "approved": true
+    },
+    {
+      "id": "unified-sase",
+      "label": "Unified SASE pillar",
+      "kind": "icon",
+      "tags": [
+        "sase",
+        "remote users",
+        "access"
+      ],
+      "path": "assets/icons/unified-sase.png",
+      "sha256": "16cbeeea0eac426bf303db371a086c0e75822965d20d6caac8cafd85280fd3d6",
+      "width_px": 420,
+      "height_px": 432,
+      "ink_bbox_px": [
+        19,
+        20,
+        401,
+        401
+      ],
+      "provenance": {
+        "origin": "user-supplied-guideline-artwork",
+        "source": "FTNT-Brand-Guidelines.pdf",
+        "source_sha256": "4741feda39c268c11e08fe94d80dc054511d3f7e25c9e651d6acbe130bc6f098",
+        "page_1_based": 56,
+        "crop_points": [
+          1034,
+          169,
+          1069,
+          205
+        ],
+        "recovered_from_pptx_sha256": "ed6319fda75b82ef36a9329b28956c3953342bc0fcfc360e844acb90cb8b2bd2",
+        "slide": 1,
+        "shape_id": 88
+      },
+      "treatment": "Unmodified raster crop recovered from the completed slide. Not an official standalone SVG or a newly invented product logo.",
+      "approved": true
+    },
+    {
+      "id": "fortinet-logo-rgb-black-red",
+      "label": "fortinet logo rgb black red",
+      "kind": "logo",
+      "tags": [
+        "official",
+        "logo",
+        "wordmark"
+      ],
+      "path": "assets/logos/fortinet-logo-rgb-black-red.png",
+      "svg_path": "assets/logos/fortinet-logo-rgb-black-red.svg",
+      "sha256": "837140951d71b6c70b6ad50dbb6cab29b10f3ea29636686ca39932e8bcc62ed8",
+      "width_px": 2436,
+      "height_px": 668,
+      "ink_bbox_px": [
+        222,
+        223,
+        2214,
+        446
+      ],
+      "provenance": {
+        "origin": "user-supplied-logo-kit",
+        "source": "Fortinet-Logo-Kit.zip",
+        "source_sha256": "7a8179ff3ea837391a9c75e7455c1480b79a39eced6b7025559ed8327eaae6c2"
+      },
+      "treatment": "Original supplied artwork, with native transparent margins. Do not recolour, trace, trim, rotate, or distort.",
+      "approved": true
+    },
+    {
+      "id": "fortinet-logo-rgb-black",
+      "label": "fortinet logo rgb black",
+      "kind": "logo",
+      "tags": [
+        "official",
+        "logo",
+        "wordmark"
+      ],
+      "path": "assets/logos/fortinet-logo-rgb-black.png",
+      "svg_path": "assets/logos/fortinet-logo-rgb-black.svg",
+      "sha256": "8c97bd13c4511118643229f5362731223d426750ce7bc5f4b0283812e836c5eb",
+      "width_px": 2436,
+      "height_px": 668,
+      "ink_bbox_px": [
+        222,
+        223,
+        2214,
+        446
+      ],
+      "provenance": {
+        "origin": "user-supplied-logo-kit",
+        "source": "Fortinet-Logo-Kit.zip",
+        "source_sha256": "7a8179ff3ea837391a9c75e7455c1480b79a39eced6b7025559ed8327eaae6c2"
+      },
+      "treatment": "Original supplied artwork, with native transparent margins. Do not recolour, trace, trim, rotate, or distort.",
+      "approved": true
+    },
+    {
+      "id": "fortinet-logo-rgb-white-red",
+      "label": "fortinet logo rgb white red",
+      "kind": "logo",
+      "tags": [
+        "official",
+        "logo",
+        "wordmark"
+      ],
+      "path": "assets/logos/fortinet-logo-rgb-white-red.png",
+      "svg_path": "assets/logos/fortinet-logo-rgb-white-red.svg",
+      "sha256": "a683f12276c3fee332735ade556d4157463cb2b5b670d92cafbeb7f30052e27e",
+      "width_px": 2436,
+      "height_px": 668,
+      "ink_bbox_px": [
+        222,
+        223,
+        2214,
+        446
+      ],
+      "provenance": {
+        "origin": "user-supplied-logo-kit",
+        "source": "Fortinet-Logo-Kit.zip",
+        "source_sha256": "7a8179ff3ea837391a9c75e7455c1480b79a39eced6b7025559ed8327eaae6c2"
+      },
+      "treatment": "Original supplied artwork, with native transparent margins. Do not recolour, trace, trim, rotate, or distort.",
+      "approved": true
+    },
+    {
+      "id": "fortinet-logo-rgb-white",
+      "label": "fortinet logo rgb white",
+      "kind": "logo",
+      "tags": [
+        "official",
+        "logo",
+        "wordmark"
+      ],
+      "path": "assets/logos/fortinet-logo-rgb-white.png",
+      "svg_path": "assets/logos/fortinet-logo-rgb-white.svg",
+      "sha256": "f179a1330bae30fd14dfc9799006ef9e1e12f25e2d6a8e5a17fb904795b695b0",
+      "width_px": 2436,
+      "height_px": 668,
+      "ink_bbox_px": [
+        222,
+        223,
+        2214,
+        446
+      ],
+      "provenance": {
+        "origin": "user-supplied-logo-kit",
+        "source": "Fortinet-Logo-Kit.zip",
+        "source_sha256": "7a8179ff3ea837391a9c75e7455c1480b79a39eced6b7025559ed8327eaae6c2"
+      },
+      "treatment": "Original supplied artwork, with native transparent margins. Do not recolour, trace, trim, rotate, or distort.",
+      "approved": true
+    },
+    {
+      "id": "fortinet-logomark-rgb-black",
+      "label": "fortinet logomark rgb black",
+      "kind": "grid",
+      "tags": [
+        "official",
+        "logo",
+        "grid"
+      ],
+      "path": "assets/logos/fortinet-logomark-rgb-black.png",
+      "svg_path": "assets/logos/fortinet-logomark-rgb-black.svg",
+      "sha256": "b14090885ab0a2f43199ccf38c6bc7970d810c5021be515855bad8650119f764",
+      "width_px": 542,
+      "height_px": 446,
+      "ink_bbox_px": [
+        111,
+        112,
+        430,
+        335
+      ],
+      "provenance": {
+        "origin": "user-supplied-logo-kit",
+        "source": "Fortinet-Logo-Kit.zip",
+        "source_sha256": "7a8179ff3ea837391a9c75e7455c1480b79a39eced6b7025559ed8327eaae6c2"
+      },
+      "treatment": "Original supplied artwork, with native transparent margins. Do not recolour, trace, trim, rotate, or distort.",
+      "approved": true
+    },
+    {
+      "id": "fortinet-logomark-rgb-red",
+      "label": "fortinet logomark rgb red",
+      "kind": "grid",
+      "tags": [
+        "official",
+        "logo",
+        "grid"
+      ],
+      "path": "assets/logos/fortinet-logomark-rgb-red.png",
+      "svg_path": "assets/logos/fortinet-logomark-rgb-red.svg",
+      "sha256": "74983965de84cf898d7fde759117940f4d835770334f8a39c8340580674a9d4f",
+      "width_px": 542,
+      "height_px": 446,
+      "ink_bbox_px": [
+        111,
+        112,
+        430,
+        335
+      ],
+      "provenance": {
+        "origin": "user-supplied-logo-kit",
+        "source": "Fortinet-Logo-Kit.zip",
+        "source_sha256": "7a8179ff3ea837391a9c75e7455c1480b79a39eced6b7025559ed8327eaae6c2"
+      },
+      "treatment": "Original supplied artwork, with native transparent margins. Do not recolour, trace, trim, rotate, or distort.",
+      "approved": true
+    },
+    {
+      "id": "fortinet-logomark-rgb-white",
+      "label": "fortinet logomark rgb white",
+      "kind": "grid",
+      "tags": [
+        "official",
+        "logo",
+        "grid"
+      ],
+      "path": "assets/logos/fortinet-logomark-rgb-white.png",
+      "svg_path": "assets/logos/fortinet-logomark-rgb-white.svg",
+      "sha256": "1de8d7ecdc1be1992ce511037eb195e1620c96d04eacea8b0347ea2c2a851ffe",
+      "width_px": 542,
+      "height_px": 446,
+      "ink_bbox_px": [
+        111,
+        112,
+        430,
+        335
+      ],
+      "provenance": {
+        "origin": "user-supplied-logo-kit",
+        "source": "Fortinet-Logo-Kit.zip",
+        "source_sha256": "7a8179ff3ea837391a9c75e7455c1480b79a39eced6b7025559ed8327eaae6c2"
+      },
+      "treatment": "Original supplied artwork, with native transparent margins. Do not recolour, trace, trim, rotate, or distort.",
+      "approved": true
+    }
+  ],
+  "coverage": "Seven official logo/Grid variants and eight guideline-derived icon crops. This is not the complete official product-icon library.",
+  "unverified_external_libraries_not_bundled": true
+}

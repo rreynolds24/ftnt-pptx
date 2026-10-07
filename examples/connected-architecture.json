@@ -1,0 +1,22 @@
+{
+  "title": "The Modern Connected University",
+  "title_prefix": "The Modern ",
+  "title_accent": "Connected",
+  "title_suffix": " University",
+  "subtitle": "One integrated architecture across campus, cloud, users, AI, OT, and operations",
+  "locale": "en-AU",
+  "cards": [
+    {"title":"Connected University","icon":"building-generic","rows":[{"text":"Main, satellite, and branch campuses"},{"text":"Students and staff working anywhere"},{"text":"Teaching, research, and administration"},{"text":"Cloud, SaaS, and AI dependence"}]},
+    {"title":"Secure Networking","icon":"secure-networking","rows":[{"text":"FortiGate NGFW: protection and segmentation","height":0.36,"gap":0.045},{"text":"Secure SD-WAN: resilient campus connectivity","height":0.36,"gap":0.045},{"text":"FortiSASE: secure access from anywhere","height":0.20,"gap":0.02}]},
+    {"title":"Campus OT Security","icon":"ot-security","rows":[{"text":"Fortinet OT Security","height":0.20,"gap":0.03},{"text":"Building systems, utilities, and physical security","height":0.36,"gap":0.035},{"text":"Ruggedised networking and NAC for OT","height":0.20,"gap":0.035},{"text":"OT visibility integrated with the SOC","height":0.20,"gap":0.02}]},
+    {"title":"Centralised Operations","icon":"security-operations","body_font_size":10.4,"rows":[{"text":"FortiManager: policy and automation","height":0.18,"gap":0.025},{"text":"FortiAnalyzer: analytics and reporting","height":0.18,"gap":0.025},{"text":"Fortinet SecOps: detect, investigate, and respond","height":0.345,"gap":0.025},{"text":"FortiGuard SOCaaS: 24x7 monitoring and response","height":0.345,"gap":0.00}]},
+    {"title":"Securing University AI","icon":"ai-technologies","rows":[{"text":"FortiAIGate: AI runtime security"},{"text":"Guardrails for prompts and responses"},{"text":"Protects sensitive data"},{"text":"Visibility and governance"}]},
+    {"title":"Threat, Exposure & Deception","title_font_size":11.35,"icon":"fortiguard","body_font_size":10.5,"rows":[{"text":"FortiGuard Labs: global threat intelligence","height":0.21,"gap":0.06},{"text":"FortiRecon: external attack-surface visibility","height":0.21,"gap":0.06},{"text":"FortiDeceptor: early deception-based detection","height":0.21,"gap":0.06},{"text":"Turning intelligence into action","height":0.21,"gap":0}]}
+  ],
+  "hub":{"eyebrow":"CONNECTED CAPABILITIES","title":"One University","subtitle":"Security Architecture"},
+  "nodes":[{"label":"Satellite\nCampus","icon":"building-generic","alt":"Generic building representing a satellite campus"},{"label":"Main Campus","icon":"building-generic"},{"label":"Cloud / SaaS","icon":"cloud"},{"label":"AI Applications","icon":"ai-technologies"},{"label":"Data Centre","icon":"building-generic","alt":"Generic building representing a data centre; not a product logo"},{"label":"Campus OT &\nFacilities","icon":"ot-security"},{"label":"Remote Users","icon":"unified-sase","alt":"Unified SASE artwork representing secure remote access"},{"label":"SOC","icon":"security-operations"}],
+  "roadmap_title":"A PRACTICAL, PROGRESSIVE ROADMAP",
+  "roadmap":["Understand today","Prioritise pressure points","Integrate progressively","Build resilience"],
+  "footer":"Start with the university's priorities and desired outcomes.",
+  "notes":"This is a reusable reproduction example, not a customer network diagram, product sizing recommendation, or new capability assertion. Connection buses are conceptual and non-directional. Product labels are preserved from the supplied concept."
+}

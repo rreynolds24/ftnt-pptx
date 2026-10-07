@@ -1,0 +1,1160 @@
+{
+  "template": "dense-connected-architecture",
+  "version": "2.0.0",
+  "font": "Inter",
+  "density_warning": "Several node/roadmap labels are below 10 pt. Split for projection.",
+  "objects": [
+    {
+      "type": "image",
+      "asset_id": "fortinet-logo-rgb-black-red",
+      "name": "Official Fortinet wordmark",
+      "x": 10.78,
+      "y": 0.16835796387520524,
+      "w": 2.2,
+      "h": 0.6032840722495895
+    },
+    {
+      "type": "text",
+      "name": "Title",
+      "x": 0.43,
+      "y": 0.28,
+      "w": 10.02,
+      "h": 0.48,
+      "fontSize": 28.5
+    },
+    {
+      "type": "text",
+      "name": "Subtitle",
+      "x": 0.45,
+      "y": 0.9,
+      "w": 12.37,
+      "h": 0.25,
+      "fontSize": 12.2
+    },
+    {
+      "type": "shape",
+      "name": "Card 1 panel",
+      "group": "Card 1",
+      "x": 0.43,
+      "y": 1.37,
+      "w": 3.5,
+      "h": 1.67,
+      "radius": 0.11,
+      "rectRadius": 0.11,
+      "line": {
+        "color": "F0F0F0",
+        "transparency": 100
+      },
+      "fill": {
+        "color": "F0F0F0"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Card 1 number",
+      "x": 0.6,
+      "y": 1.54,
+      "w": 0.31,
+      "h": 0.26,
+      "fontSize": 14.3
+    },
+    {
+      "type": "text",
+      "name": "Card 1 title",
+      "x": 1.02,
+      "y": 1.52,
+      "w": 2.3600000000000003,
+      "h": 0.31,
+      "fontSize": 13
+    },
+    {
+      "type": "image",
+      "asset_id": "building-generic",
+      "name": "Card 1 icon",
+      "x": 3.5104545454545453,
+      "y": 1.5250000000000001,
+      "w": 0.2290909090909091,
+      "h": 0.3
+    },
+    {
+      "type": "text",
+      "name": "Card 1 item 1",
+      "x": 0.61,
+      "y": 1.86,
+      "w": 3.14,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 1 item 2",
+      "x": 0.61,
+      "y": 2.1100000000000003,
+      "w": 3.14,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 1 item 3",
+      "x": 0.61,
+      "y": 2.3600000000000003,
+      "w": 3.14,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 1 item 4",
+      "x": 0.61,
+      "y": 2.6100000000000003,
+      "w": 3.14,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "shape",
+      "name": "Card 2 panel",
+      "group": "Card 2",
+      "x": 0.43,
+      "y": 3.12,
+      "w": 3.5,
+      "h": 1.67,
+      "radius": 0.11,
+      "rectRadius": 0.11,
+      "line": {
+        "color": "F0F0F0",
+        "transparency": 100
+      },
+      "fill": {
+        "color": "F0F0F0"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Card 2 number",
+      "x": 0.6,
+      "y": 3.29,
+      "w": 0.31,
+      "h": 0.26,
+      "fontSize": 14.3
+    },
+    {
+      "type": "text",
+      "name": "Card 2 title",
+      "x": 1.02,
+      "y": 3.27,
+      "w": 2.3600000000000003,
+      "h": 0.31,
+      "fontSize": 13
+    },
+    {
+      "type": "image",
+      "asset_id": "secure-networking",
+      "name": "Card 2 icon",
+      "x": 3.491216216216216,
+      "y": 3.275,
+      "w": 0.26756756756756755,
+      "h": 0.3
+    },
+    {
+      "type": "text",
+      "name": "Card 2 item 1",
+      "x": 0.61,
+      "y": 3.6100000000000003,
+      "w": 3.14,
+      "h": 0.36,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 2 item 2",
+      "x": 0.61,
+      "y": 4.015000000000001,
+      "w": 3.14,
+      "h": 0.36,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 2 item 3",
+      "x": 0.61,
+      "y": 4.420000000000001,
+      "w": 3.14,
+      "h": 0.2,
+      "fontSize": 10.75
+    },
+    {
+      "type": "shape",
+      "name": "Card 3 panel",
+      "group": "Card 3",
+      "x": 0.43,
+      "y": 4.87,
+      "w": 3.5,
+      "h": 1.67,
+      "radius": 0.11,
+      "rectRadius": 0.11,
+      "line": {
+        "color": "F0F0F0",
+        "transparency": 100
+      },
+      "fill": {
+        "color": "F0F0F0"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Card 3 number",
+      "x": 0.6,
+      "y": 5.04,
+      "w": 0.31,
+      "h": 0.26,
+      "fontSize": 14.3
+    },
+    {
+      "type": "text",
+      "name": "Card 3 title",
+      "x": 1.02,
+      "y": 5.0200000000000005,
+      "w": 2.3600000000000003,
+      "h": 0.31,
+      "fontSize": 13
+    },
+    {
+      "type": "image",
+      "asset_id": "ot-security",
+      "name": "Card 3 icon",
+      "x": 3.48,
+      "y": 5.03,
+      "w": 0.29,
+      "h": 0.29
+    },
+    {
+      "type": "text",
+      "name": "Card 3 item 1",
+      "x": 0.61,
+      "y": 5.36,
+      "w": 3.14,
+      "h": 0.2,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 3 item 2",
+      "x": 0.61,
+      "y": 5.590000000000001,
+      "w": 3.14,
+      "h": 0.36,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 3 item 3",
+      "x": 0.61,
+      "y": 5.985000000000001,
+      "w": 3.14,
+      "h": 0.2,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 3 item 4",
+      "x": 0.61,
+      "y": 6.2200000000000015,
+      "w": 3.14,
+      "h": 0.2,
+      "fontSize": 10.75
+    },
+    {
+      "type": "shape",
+      "name": "Card 4 panel",
+      "group": "Card 4",
+      "x": 9.2,
+      "y": 1.37,
+      "w": 3.7,
+      "h": 1.67,
+      "radius": 0.11,
+      "rectRadius": 0.11,
+      "line": {
+        "color": "F0F0F0",
+        "transparency": 100
+      },
+      "fill": {
+        "color": "F0F0F0"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Card 4 number",
+      "x": 9.37,
+      "y": 1.54,
+      "w": 0.31,
+      "h": 0.26,
+      "fontSize": 14.3
+    },
+    {
+      "type": "text",
+      "name": "Card 4 title",
+      "x": 9.79,
+      "y": 1.52,
+      "w": 2.5600000000000005,
+      "h": 0.31,
+      "fontSize": 13
+    },
+    {
+      "type": "image",
+      "asset_id": "security-operations",
+      "name": "Card 4 icon",
+      "x": 12.473378378378378,
+      "y": 1.5250000000000001,
+      "w": 0.24324324324324326,
+      "h": 0.3
+    },
+    {
+      "type": "text",
+      "name": "Card 4 item 1",
+      "x": 9.379999999999999,
+      "y": 1.86,
+      "w": 3.3400000000000003,
+      "h": 0.18,
+      "fontSize": 10.4
+    },
+    {
+      "type": "text",
+      "name": "Card 4 item 2",
+      "x": 9.379999999999999,
+      "y": 2.065,
+      "w": 3.3400000000000003,
+      "h": 0.18,
+      "fontSize": 10.4
+    },
+    {
+      "type": "text",
+      "name": "Card 4 item 3",
+      "x": 9.379999999999999,
+      "y": 2.27,
+      "w": 3.3400000000000003,
+      "h": 0.345,
+      "fontSize": 10.4
+    },
+    {
+      "type": "text",
+      "name": "Card 4 item 4",
+      "x": 9.379999999999999,
+      "y": 2.64,
+      "w": 3.3400000000000003,
+      "h": 0.345,
+      "fontSize": 10.4
+    },
+    {
+      "type": "shape",
+      "name": "Card 5 panel",
+      "group": "Card 5",
+      "x": 9.2,
+      "y": 3.12,
+      "w": 3.7,
+      "h": 1.67,
+      "radius": 0.11,
+      "rectRadius": 0.11,
+      "line": {
+        "color": "F0F0F0",
+        "transparency": 100
+      },
+      "fill": {
+        "color": "F0F0F0"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Card 5 number",
+      "x": 9.37,
+      "y": 3.29,
+      "w": 0.31,
+      "h": 0.26,
+      "fontSize": 14.3
+    },
+    {
+      "type": "text",
+      "name": "Card 5 title",
+      "x": 9.79,
+      "y": 3.27,
+      "w": 2.5600000000000005,
+      "h": 0.31,
+      "fontSize": 13
+    },
+    {
+      "type": "image",
+      "asset_id": "ai-technologies",
+      "name": "Card 5 icon",
+      "x": 12.464354838709676,
+      "y": 3.275,
+      "w": 0.26129032258064516,
+      "h": 0.3
+    },
+    {
+      "type": "text",
+      "name": "Card 5 item 1",
+      "x": 9.379999999999999,
+      "y": 3.6100000000000003,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 5 item 2",
+      "x": 9.379999999999999,
+      "y": 3.8600000000000003,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 5 item 3",
+      "x": 9.379999999999999,
+      "y": 4.11,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "text",
+      "name": "Card 5 item 4",
+      "x": 9.379999999999999,
+      "y": 4.36,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.75
+    },
+    {
+      "type": "shape",
+      "name": "Card 6 panel",
+      "group": "Card 6",
+      "x": 9.2,
+      "y": 4.87,
+      "w": 3.7,
+      "h": 1.67,
+      "radius": 0.11,
+      "rectRadius": 0.11,
+      "line": {
+        "color": "F0F0F0",
+        "transparency": 100
+      },
+      "fill": {
+        "color": "F0F0F0"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Card 6 number",
+      "x": 9.37,
+      "y": 5.04,
+      "w": 0.31,
+      "h": 0.26,
+      "fontSize": 14.3
+    },
+    {
+      "type": "text",
+      "name": "Card 6 title",
+      "x": 9.79,
+      "y": 5.0200000000000005,
+      "w": 2.5600000000000005,
+      "h": 0.31,
+      "fontSize": 11.35
+    },
+    {
+      "type": "image",
+      "asset_id": "fortiguard",
+      "name": "Card 6 icon",
+      "x": 12.474032258064515,
+      "y": 5.025,
+      "w": 0.24193548387096772,
+      "h": 0.3
+    },
+    {
+      "type": "text",
+      "name": "Card 6 item 1",
+      "x": 9.379999999999999,
+      "y": 5.36,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.5
+    },
+    {
+      "type": "text",
+      "name": "Card 6 item 2",
+      "x": 9.379999999999999,
+      "y": 5.630000000000001,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.5
+    },
+    {
+      "type": "text",
+      "name": "Card 6 item 3",
+      "x": 9.379999999999999,
+      "y": 5.9,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.5
+    },
+    {
+      "type": "text",
+      "name": "Card 6 item 4",
+      "x": 9.379999999999999,
+      "y": 6.17,
+      "w": 3.3400000000000003,
+      "h": 0.21,
+      "fontSize": 10.5
+    },
+    {
+      "type": "shape",
+      "name": "Upper bus",
+      "group": "connector",
+      "x": 4.705,
+      "y": 2.86,
+      "w": 3.66,
+      "h": 0,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Upper hub link",
+      "group": "connector",
+      "x": 6.53,
+      "y": 2.86,
+      "w": 0,
+      "h": 0.29000000000000004,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Lower bus",
+      "group": "connector",
+      "x": 4.705,
+      "y": 4.97,
+      "w": 3.66,
+      "h": 0,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Lower hub link",
+      "group": "connector",
+      "x": 6.53,
+      "y": 4.73,
+      "w": 0,
+      "h": 0.23999999999999932,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Top link 0",
+      "group": "connector",
+      "x": 4.705,
+      "y": 2.5700000000000003,
+      "w": 0,
+      "h": 0.2899999999999996,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Bottom link 0",
+      "group": "connector",
+      "x": 4.705,
+      "y": 4.97,
+      "w": 0,
+      "h": 0.35000000000000053,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Top link 1",
+      "group": "connector",
+      "x": 5.925,
+      "y": 2.5700000000000003,
+      "w": 0,
+      "h": 0.2899999999999996,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Bottom link 1",
+      "group": "connector",
+      "x": 5.925,
+      "y": 4.97,
+      "w": 0,
+      "h": 0.35000000000000053,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Top link 2",
+      "group": "connector",
+      "x": 7.145,
+      "y": 2.5700000000000003,
+      "w": 0,
+      "h": 0.2899999999999996,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Bottom link 2",
+      "group": "connector",
+      "x": 7.145,
+      "y": 4.97,
+      "w": 0,
+      "h": 0.35000000000000053,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Top link 3",
+      "group": "connector",
+      "x": 8.365,
+      "y": 2.5700000000000003,
+      "w": 0,
+      "h": 0.2899999999999996,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Bottom link 3",
+      "group": "connector",
+      "x": 8.365,
+      "y": 4.97,
+      "w": 0,
+      "h": 0.35000000000000053,
+      "line": {
+        "color": "DA291C",
+        "width": 1.1
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Hub",
+      "group": "hub",
+      "x": 5.08,
+      "y": 3.15,
+      "w": 2.9,
+      "h": 1.58,
+      "radius": 0.1,
+      "rectRadius": 0.1,
+      "line": {
+        "color": "DA291C",
+        "width": 1.2
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "fortinet-logomark-rgb-red",
+      "name": "Official Fortinet Grid",
+      "x": 6.164349775784753,
+      "y": 3.19,
+      "w": 0.7413004484304933,
+      "h": 0.61
+    },
+    {
+      "type": "text",
+      "name": "Hub eyebrow",
+      "x": 5.23,
+      "y": 3.89,
+      "w": 2.6,
+      "h": 0.18,
+      "fontSize": 10
+    },
+    {
+      "type": "text",
+      "name": "Hub title",
+      "x": 5.21,
+      "y": 4.11,
+      "w": 2.64,
+      "h": 0.26,
+      "fontSize": 17.5
+    },
+    {
+      "type": "text",
+      "name": "Hub subtitle",
+      "x": 5.21,
+      "y": 4.43,
+      "w": 2.64,
+      "h": 0.19,
+      "fontSize": 11.2
+    },
+    {
+      "type": "shape",
+      "name": "Node 0",
+      "group": "node",
+      "x": 4.16,
+      "y": 1.58,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "building-generic",
+      "name": "Generic building representing a satellite campus",
+      "x": 4.521727272727273,
+      "y": 1.6900000000000002,
+      "w": 0.36654545454545456,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 0",
+      "x": 4.195,
+      "y": 2.22,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Node 1",
+      "group": "node",
+      "x": 5.38,
+      "y": 1.58,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "building-generic",
+      "name": "Main Campus",
+      "x": 5.741727272727273,
+      "y": 1.6900000000000002,
+      "w": 0.36654545454545456,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 1",
+      "x": 5.415,
+      "y": 2.22,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Node 2",
+      "group": "node",
+      "x": 6.6,
+      "y": 1.58,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "cloud",
+      "name": "Cloud / SaaS",
+      "x": 6.8861940298507465,
+      "y": 1.6900000000000002,
+      "w": 0.5176119402985074,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 2",
+      "x": 6.635,
+      "y": 2.22,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Node 3",
+      "group": "node",
+      "x": 7.82,
+      "y": 1.58,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "ai-technologies",
+      "name": "AI Applications",
+      "x": 8.155967741935484,
+      "y": 1.6900000000000002,
+      "w": 0.4180645161290322,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 3",
+      "x": 7.855,
+      "y": 2.22,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Node 4",
+      "group": "node",
+      "x": 4.16,
+      "y": 5.32,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "building-generic",
+      "name": "Generic building representing a data centre; not a product logo",
+      "x": 4.521727272727273,
+      "y": 5.430000000000001,
+      "w": 0.36654545454545456,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 4",
+      "x": 4.195,
+      "y": 5.96,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Node 5",
+      "group": "node",
+      "x": 5.38,
+      "y": 5.32,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "ot-security",
+      "name": "Campus OT &\nFacilities",
+      "x": 5.6850000000000005,
+      "y": 5.430000000000001,
+      "w": 0.48,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 5",
+      "x": 5.415,
+      "y": 5.96,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Node 6",
+      "group": "node",
+      "x": 6.6,
+      "y": 5.32,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "unified-sase",
+      "name": "Unified SASE artwork representing secure remote access",
+      "x": 6.911666666666667,
+      "y": 5.430000000000001,
+      "w": 0.4666666666666666,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 6",
+      "x": 6.635,
+      "y": 5.96,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Node 7",
+      "group": "node",
+      "x": 7.82,
+      "y": 5.32,
+      "w": 1.09,
+      "h": 0.99,
+      "radius": 0.07,
+      "rectRadius": 0.07,
+      "line": {
+        "color": "C8C8C8",
+        "width": 0.65
+      },
+      "fill": {
+        "color": "FFFFFF"
+      }
+    },
+    {
+      "type": "image",
+      "asset_id": "security-operations",
+      "name": "SOC",
+      "x": 8.170405405405406,
+      "y": 5.430000000000001,
+      "w": 0.3891891891891892,
+      "h": 0.48
+    },
+    {
+      "type": "text",
+      "name": "Node label 7",
+      "x": 7.855,
+      "y": 5.96,
+      "w": 1.02,
+      "h": 0.27,
+      "fontSize": 9.3
+    },
+    {
+      "type": "shape",
+      "name": "Roadmap title",
+      "group": "roadmap",
+      "x": 0.43,
+      "y": 6.7,
+      "w": 3.66,
+      "h": 0.4,
+      "line": {
+        "color": "DA291C",
+        "width": 0
+      },
+      "fill": {
+        "color": "DA291C"
+      }
+    },
+    {
+      "type": "shape",
+      "name": "Roadmap left-edge patch",
+      "group": "roadmap",
+      "x": 0.43,
+      "y": 6.7,
+      "w": 0.21,
+      "h": 0.4,
+      "line": {
+        "color": "DA291C",
+        "width": 0
+      },
+      "fill": {
+        "color": "DA291C"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Roadmap title text",
+      "x": 0.67,
+      "y": 6.815,
+      "w": 3.11,
+      "h": 0.16,
+      "fontSize": 10.6
+    },
+    {
+      "type": "shape",
+      "name": "Roadmap step 0",
+      "group": "roadmap",
+      "x": 4.12,
+      "y": 6.7,
+      "w": 2.15,
+      "h": 0.4,
+      "line": {
+        "color": "DA291C",
+        "width": 0.75
+      },
+      "fill": {
+        "color": "FBE9E8"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Roadmap label 0",
+      "x": 4.32,
+      "y": 6.82,
+      "w": 1.74,
+      "h": 0.17,
+      "fontSize": 9.8
+    },
+    {
+      "type": "shape",
+      "name": "Roadmap step 1",
+      "group": "roadmap",
+      "x": 6.33,
+      "y": 6.7,
+      "w": 2.15,
+      "h": 0.4,
+      "line": {
+        "color": "DA291C",
+        "width": 0.75
+      },
+      "fill": {
+        "color": "FBE9E8"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Roadmap label 1",
+      "x": 6.53,
+      "y": 6.82,
+      "w": 1.74,
+      "h": 0.17,
+      "fontSize": 9.4
+    },
+    {
+      "type": "shape",
+      "name": "Roadmap step 2",
+      "group": "roadmap",
+      "x": 8.54,
+      "y": 6.7,
+      "w": 2.15,
+      "h": 0.4,
+      "line": {
+        "color": "DA291C",
+        "width": 0.75
+      },
+      "fill": {
+        "color": "FBE9E8"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Roadmap label 2",
+      "x": 8.739999999999998,
+      "y": 6.82,
+      "w": 1.74,
+      "h": 0.17,
+      "fontSize": 9.8
+    },
+    {
+      "type": "shape",
+      "name": "Roadmap step 3",
+      "group": "roadmap",
+      "x": 10.75,
+      "y": 6.7,
+      "w": 2.15,
+      "h": 0.4,
+      "line": {
+        "color": "DA291C",
+        "width": 0.75
+      },
+      "fill": {
+        "color": "FBE9E8"
+      }
+    },
+    {
+      "type": "text",
+      "name": "Roadmap label 3",
+      "x": 10.95,
+      "y": 6.82,
+      "w": 1.74,
+      "h": 0.17,
+      "fontSize": 9.8
+    },
+    {
+      "type": "text",
+      "name": "Footer",
+      "x": 0.44,
+      "y": 7.18,
+      "w": 12.42,
+      "h": 0.18,
+      "fontSize": 11.2
+    }
+  ]
+}
